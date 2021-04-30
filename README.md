@@ -1,4 +1,4 @@
-# Webpack Academy Courses for Frontend Masters
+#Pranesh Ranganathan - Webpack Academy Courses for Frontend Masters
 Code repository for the three Webpack courses recorded in 2018.
 
 ## Video Courses:
